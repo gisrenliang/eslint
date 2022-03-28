@@ -107,7 +107,7 @@ We have prepared a [migration guide](https://eslint.org/docs/user-guide/migratin
 
 We are now at or near 100% compatibility with JSCS. If you try ESLint and believe we are not yet compatible with a JSCS rule/configuration, please create an issue (mentioning that it is a JSCS compatibility issue) and we will evaluate it as per our normal process.
 
-### Does Prettier replace ESLint?
+### Does Prettier replace ESLint?dd
 
 No, ESLint does both traditional linting (looking for problematic patterns) and style checking (enforcement of conventions). You can use ESLint for everything, or you can combine both using Prettier to format your code and ESLint to catch possible errors.
 
